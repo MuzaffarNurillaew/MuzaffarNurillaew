@@ -78,8 +78,8 @@
 
 ## 💻 Last month's activity
 <!-- https://github.com/muzaffarnurillaew/github-readme-activity-graph -->
-<a href=""><img alt="muzaffar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muzaffarnurillaew&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
+<!-- <a href=""><img alt="muzaffar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muzaffarnurillaew&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details> -->
 
 
 
